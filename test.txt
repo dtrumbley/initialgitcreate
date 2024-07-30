@@ -1,3 +1,4 @@
-some text
+some text!
 
-this is from the test branch!
+adjusting text w/ practice of multiple branches. These changes will be added to the master branch
+through merge.
